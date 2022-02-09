@@ -1,5 +1,5 @@
 import random
-
+#오픈 소스 합치기 연습
 #소스 코드 수정 중
 
 answer = random.randrange(1, 101)
